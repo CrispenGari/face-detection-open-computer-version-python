@@ -4,7 +4,7 @@ This is a simple Machine Learning open computer version
 application that detects faces in real time using `haarcascade_frontalface_default.xml` from opencv.
 
 ### Demo
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+[[Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://github.com/CrispenGari/face-detection-open-computer-version-python/blob/main/bandicam%202020-12-09%2018-32-49-471.mp4)
 ### App capabilities.
 This app is cappable of:
 * detecting faces in real time
